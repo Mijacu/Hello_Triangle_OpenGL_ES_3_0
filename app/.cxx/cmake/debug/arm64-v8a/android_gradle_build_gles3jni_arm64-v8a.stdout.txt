@@ -1,0 +1,4 @@
+ninja: Entering directory `/Users/ucastro/Programming/OpenGL/hello_triangle/app/.cxx/cmake/debug/arm64-v8a'
+[1/3] Building CXX object CMakeFiles/gles3jni.dir/RendererES3.cpp.o
+[2/3] Building CXX object CMakeFiles/gles3jni.dir/gles3jni.cpp.o
+[3/3] Linking CXX shared library /Users/ucastro/Programming/OpenGL/hello_triangle/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so

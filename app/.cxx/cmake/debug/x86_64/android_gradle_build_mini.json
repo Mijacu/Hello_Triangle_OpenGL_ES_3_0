@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/ucastro/Programming/OpenGL/hello_triangle/app/src/main/cpp/CMakeLists.txt",
+    "/Users/ucastro/Library/Android/sdk/ndk/21.2.6472646/build/cmake/android.toolchain.cmake",
+    "/Users/ucastro/Library/Android/sdk/ndk/21.2.6472646/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/ucastro/Library/Android/sdk/cmake/3.18.1/bin/ninja -C \"/Users/ucastro/Programming/OpenGL/hello_triangle/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/ucastro/Library/Android/sdk/cmake/3.18.1/bin/ninja  -C \"/Users/ucastro/Programming/OpenGL/hello_triangle/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "gles3jni-Debug-x86_64": {
+      "artifactName": "gles3jni",
+      "buildCommand": "/Users/ucastro/Library/Android/sdk/cmake/3.18.1/bin/ninja -C \"/Users/ucastro/Programming/OpenGL/hello_triangle/app/.cxx/cmake/debug/x86_64\" gles3jni",
+      "abi": "x86_64",
+      "output": "/Users/ucastro/Programming/OpenGL/hello_triangle/app/build/intermediates/cmake/debug/obj/x86_64/libgles3jni.so",
+      "runtimeFiles": []
+    }
+  }
+}

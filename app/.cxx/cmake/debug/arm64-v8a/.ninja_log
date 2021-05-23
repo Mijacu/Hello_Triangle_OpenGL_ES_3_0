@@ -1,0 +1,20 @@
+# ninja log v5
+0	141	1621731470	CMakeFiles/gles3jni.dir/RendererES2.cpp.o	801c928f7b7cac86
+1	141	1621731470	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	8d920898b7bf0587
+0	178	1621731470	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	d7385489019f226e
+178	283	1621731471	/Users/ucastro/Programming/OpenGL/hello_triangle/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	a60ab1bba56064ec
+1	395	1621732457	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	d7385489019f226e
+395	512	1621732457	/Users/ucastro/Programming/OpenGL/hello_triangle/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	a60ab1bba56064ec
+1	298	1621734664	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	d7385489019f226e
+1	227	1621735227	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	8d920898b7bf0587
+227	386	1621735227	/Users/ucastro/Programming/OpenGL/hello_triangle/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	eaa0bd770dd4bbdb
+1	388	1621735364	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	8d920898b7bf0587
+1	388	1621735364	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	d7385489019f226e
+388	502	1621735364	/Users/ucastro/Programming/OpenGL/hello_triangle/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	eaa0bd770dd4bbdb
+1	315	1621735490	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	8d920898b7bf0587
+315	442	1621735490	/Users/ucastro/Programming/OpenGL/hello_triangle/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	eaa0bd770dd4bbdb
+1	139	1621735550	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	8d920898b7bf0587
+139	227	1621735550	/Users/ucastro/Programming/OpenGL/hello_triangle/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	eaa0bd770dd4bbdb
+2	276	1621736112	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	8d920898b7bf0587
+1	281	1621736112	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	d7385489019f226e
+281	392	1621736113	/Users/ucastro/Programming/OpenGL/hello_triangle/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	eaa0bd770dd4bbdb

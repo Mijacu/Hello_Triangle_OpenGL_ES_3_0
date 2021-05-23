@@ -1,0 +1,4 @@
+#Sat May 22 20:15:13 MDT 2021
+base.0=/Users/ucastro/Programming/OpenGL/hello_triangle/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

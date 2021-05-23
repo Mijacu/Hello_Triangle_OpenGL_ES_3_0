@@ -1,0 +1,10 @@
+com/android/triangle/BuildConfig.java
+ com.android.triangle.BuildConfig
+com/android/triangle/GLES3JNIView.java
+ com.android.triangle.GLES3JNIView
+ com.android.triangle.GLES3JNIView$1
+ com.android.triangle.GLES3JNIView$Renderer
+com/android/triangle/GLES3JNIActivity.java
+ com.android.triangle.GLES3JNIActivity
+com/android/triangle/GLES3JNILib.java
+ com.android.triangle.GLES3JNILib
